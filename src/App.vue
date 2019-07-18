@@ -5,6 +5,8 @@
 </template>
 
 <script>
+
+//我是修改长线上的bug
 //测试使用工具提交代码
 /*
 # install dependencies
